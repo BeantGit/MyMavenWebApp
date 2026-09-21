@@ -1,2 +1,2 @@
 FROM beants1411987/tomcat:latest
-COPY target/MyMavenWebApp.war  /opt/tomcat/webapps/ 
+COPY ./target/MyMavenWebApp.war  /opt/tomcat/webapps/ 
