@@ -7,6 +7,6 @@
 <title>Welcome</title>
 </head>
 <body>
-
+<h2>You are at welcome page now.</h2>
 </body>
 </html>
