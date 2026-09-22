@@ -27,9 +27,14 @@ public class MyController extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+		//response.getWriter().append("Served at: ").append(request.getContextPath());
 		PrintWriter out = response.getWriter();
-		out.println("<h1> Hello from Servlet : </h1>");
+		out.println("<html>");
+		out.println("<body>");
+		out.println("<h2>Hello from Java Servlet</h2>");
+		out.println("<h3>There are alot to do.</h3>");
+		out.println("</body>");
+		out.println("</html>");
 	}
 
 	/**

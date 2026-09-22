@@ -13,5 +13,10 @@
 <a href="welcome.jsp">welcome_page</a>
 <br>
 <a href="do">Click</a>
+
+<h3>Project updates.</h3>
+<h5>Added welcome page.</h5>
+<h5>Added Servlet Web content.</h5>
+
 </body>
 </html>
