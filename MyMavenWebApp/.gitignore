@@ -1,1 +1,6 @@
-/target/
+**/bin/**
+**/backup/**
+**/.metadata/**
+**/.settings/**
+**/target/**
+*.txt
