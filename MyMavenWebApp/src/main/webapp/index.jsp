@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Index page</title>
+<title>Index page 1</title>
 </head>
 <body>
 
